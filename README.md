@@ -1,3 +1,6 @@
+# prezto 
+1. https://github.com/sorin-ionescu/prezto
+
 # vim
 
 1. plug-in
